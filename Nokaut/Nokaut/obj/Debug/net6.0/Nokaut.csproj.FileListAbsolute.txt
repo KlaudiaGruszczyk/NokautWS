@@ -1,0 +1,58 @@
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\appsettings.json
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.exe
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.deps.json
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.runtimeconfig.json
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.pdb
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\HtmlAgilityPack.CssSelectors.NetCore.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.csproj.AssemblyReference.cache
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.AssemblyInfoInputs.cache
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.AssemblyInfo.cs
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.csproj.CoreCompileInputs.cache
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\scopedcss\bundle\Nokaut.styles.css
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.csproj.CopyComplete
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\refint\Nokaut.dll
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.pdb
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.genruntimeconfig.cache
+C:\Users\kgrus\Desktop\learning stuff\Nokaut\Nokaut\obj\Debug\net6.0\ref\Nokaut.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\appsettings.Development.json
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\appsettings.json
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.exe
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.deps.json
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.runtimeconfig.json
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Nokaut.pdb
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\HtmlAgilityPack.CssSelectors.NetCore.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learning-stuff\Nokaut\Nokaut\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.csproj.AssemblyReference.cache
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.AssemblyInfoInputs.cache
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.AssemblyInfo.cs
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.csproj.CoreCompileInputs.cache
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.MvcApplicationPartsAssemblyInfo.cs
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.MvcApplicationPartsAssemblyInfo.cache
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\staticwebassets.build.json
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\staticwebassets.development.json
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\scopedcss\bundle\Nokaut.styles.css
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.csproj.CopyComplete
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.dll
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\refint\Nokaut.dll
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.pdb
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\Nokaut.genruntimeconfig.cache
+D:\learning-stuff\Nokaut\Nokaut\obj\Debug\net6.0\ref\Nokaut.dll
